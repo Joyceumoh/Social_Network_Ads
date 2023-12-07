@@ -10,7 +10,7 @@ The Social Network Ads dataset collects information from a social network ad and
 •	‘EstimatedSalary’: Tells us the salaries of persons who purchased or did not purchase the ads                                                                                                                               
 •	‘Purchased’: Tells us persons who purchased or did not purchase the ads
 
-Link to the dataset here
+Link to the dataset here https://www.kaggle.com/datasets/rakeshrau/social-network-ads
 
 **Questions(s) for Analysis**
 
